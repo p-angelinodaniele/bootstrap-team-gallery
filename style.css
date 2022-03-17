@@ -1,0 +1,23 @@
+h1, h5{
+    color: green;
+}
+
+h6{
+    color: grey;
+    
+}
+
+* {
+    font-size: small;
+}
+
+
+body{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+
+.margin{
+    margin-bottom: 30px;
+}
